@@ -30,8 +30,8 @@
 </p>
 
 ### - Learning :
-- ✨ Data Structures & Algorithms — because my arrays need structure and my life needs O(1).
-- ✨ Generative AI & Agentic AI — teaching my laptop to think, so I can finally take coffee breaks.
+- ✨ DSA — because my arrays need structure and my life needs O(1).
+- ✨ Gen AI & Agentic AI — teaching my laptop to think, so I can finally take coffee breaks.
 - 🥀 Java & Back-End — where bugs become features after a well-worded commit message.
 - I do development and a bit of everything ❤️ — full‑stack by day, stack overflow by night.
 
