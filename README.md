@@ -26,14 +26,14 @@
 <br />
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 <p align="center">
-  <h3> I'm 20 years old Aspiring Software Engineer from India.</h3>
+  <h3> I'm 20 years old Software Engineer from Jaipur, Rajasthan, India.</h3>
 </p>
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative AI & Agentic AI
-- 🥀 Learning Java & Back-End
-- I do development and a bit of everything :heart:
+- ✨ Data Structures & Algorithms — because my arrays need structure and my life needs O(1).
+- ✨ Generative AI & Agentic AI — teaching my laptop to think, so I can finally take coffee breaks.
+- 🥀 Java & Back-End — where bugs become features after a well-worded commit message.
+- I do development and a bit of everything ❤️ — full‑stack by day, stack overflow by night.
 
 ### - Hobbies : 
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
