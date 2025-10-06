@@ -156,7 +156,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:vansh250305@gmail.com">
+<a href="mailto:reachoutanmolag@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/anmol-agrawal25">
